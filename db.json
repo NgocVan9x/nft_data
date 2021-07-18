@@ -1,0 +1,13 @@
+{
+    "0":{
+        "id": 0,
+        "name": "Ronalido",
+        "description": "Ronalido",
+        "image": "https://www.nftsoccer.co/_next/static/images/card-5-7c82f166c24079a947f7b893af058826.png",
+        "scrore":{
+            "skill_moves": 5,
+            "weak_foot": 4,
+            "att_work_rate": "high"
+        }
+    }
+}
